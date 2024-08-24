@@ -17,11 +17,19 @@ ___
 
 ### JavaScript / TypeScript / WEB
 
-| Resource                                                                                                                                                                                                                                                                                             | Status |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
-| [HTML, CSS, and Javascript for Web Developers](https://www.datacamp.com/courses/writing-efficient-python-code](https://www.coursera.org/account/accomplishments/verify/2TZNPHX62Y4G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)) |   ✅    |
-| [Postman Essential Training (2020)](https://www.linkedin.com/learning/certificates/cc5ca86ff6888f1ee07f2f4e5250d114ec14d0eeeeffa8bf2f3db564003a836d)                                                                                                                                                 |   ✅    |
-| [Full JavaScript + React course](https://udemy-certificate.s3.amazonaws.com/image/UC-f6d7cf96-9f7a-4aaa-b54e-6dae98e0553d.jpg?v=1701651070000)                                                                                                                                                       |   ✅    |
+| Resource                                                                                                                                                                                                                                                                                  |                                                     Status                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|
+| [HTML, CSS, and Javascript for Web Developers](https://www.datacamp.com/courses/writing-efficient-python-code](https://www.coursera.org/account/accomplishments/verify/2TZNPHX62Y4G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)) |                                                        ✅                                                        |
+| [Postman Essential Training (2020)](https://www.linkedin.com/learning/certificates/cc5ca86ff6888f1ee07f2f4e5250d114ec14d0eeeeffa8bf2f3db564003a836d)                                                                                                                                      |                                                        ✅                                                        |
+| [Full JavaScript + React course](https://udemy-certificate.s3.amazonaws.com/image/UC-f6d7cf96-9f7a-4aaa-b54e-6dae98e0553d.jpg?v=1701651070000)                                                                                                                                            |                                                        ✅                                                        |
+| [Article \| How to Write Clean Code – Tips and Best Practices](https://www.freecodecamp.org/news/how-to-write-clean-code/)                                                                                                                                                |   ✅    |
+| [Article \| Currying in JavaScript Explained With Examples](https://builtin.com/software-engineering-perspectives/currying-javascript)                                                                                                                                                 |   ✅    |
+
+### QA in general
+
+| Resource                                                                                                                          |                                                        Status                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------:|
+| [Article \| Best practices for QA testing](https://www.globalapptesting.com/best-practices-for-qa-testing#nine-best-practices) |   ✅    |
 
 ### Automation
 
